@@ -1,5 +1,5 @@
-Flask
-gunicorn==19.9.0
-numpy>=1.9.2
-scikit-learn>=0.18
+numpy==1.16.0
+flask
 tensorflow
+gunicorn
+keras
