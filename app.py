@@ -1,5 +1,4 @@
 import flask
-import numpy as np
 import pickle
 import re
 from sklearn.model_selection import train_test_split
